@@ -73,6 +73,18 @@ Error-prone
 App + Dependencies → Docker Image → Run Anywhere
 ```
 
+<img width="1024" height="703" alt="image" src="https://github.com/user-attachments/assets/321b0e5f-0315-4f68-a1ed-61aae337b7dc" />
+
+
+---
+
+
+<img width="1024" height="660" alt="image" src="https://github.com/user-attachments/assets/4481f8b0-ab30-41a1-a3e1-96af9b18b04b" />
+
+
+---
+
+
 ## 🏗️ 4. Docker Architecture
 
 <img width="1024" height="519" alt="image" src="https://github.com/user-attachments/assets/e3b9d2c3-26c4-4b47-9bd7-198e55077ded" />
