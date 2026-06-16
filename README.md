@@ -34,6 +34,14 @@ Docker is a containerization platform that allows you to package applications al
 - A lightweight virtual machine
 - But faster and more efficient
 
+---
+
+## Container Tools :
+
+
+<img width="2704" height="1756" alt="image" src="https://github.com/user-attachments/assets/c8f26957-65be-49ea-b43a-c114bcca4768" />
+
+---
 ## ❓ 2. Why Docker?
 
 **Problems Before Docker:**
